@@ -1,4 +1,7 @@
 # Projects
-Hospital Management  ,
-Zomato MVP ,
-Educational Website .
+
+Hospital Management  
+
+Zomato MVP 
+
+Educational Website 
